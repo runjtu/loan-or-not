@@ -1,2 +1,2 @@
 # loan-or-not
-sample for ml
+code sample for classifying problem using ml from Aini Li
